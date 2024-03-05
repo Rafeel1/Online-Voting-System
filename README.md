@@ -1,1 +1,1 @@
-# Online-Voting-System-OVS-
+# Online-Voting-System
