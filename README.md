@@ -62,7 +62,7 @@
 ## Software Design Analysis Project - BCS-5M (Group A)
 
 ## Group Members:
-● Rafeel Abdul (21L-5448)
+● Chaudhary Rafeel Abdul Majid (21L-5448)
 
 ● Muhammad Hasnain Fatmi (21L-1773)
 
